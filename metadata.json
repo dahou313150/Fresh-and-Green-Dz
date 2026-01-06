@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Fresh and Green Dz",
+  "description": "A premium, responsive restaurant website featuring a fresh, modern aesthetic, full menu, gallery, and an AI-powered personalized dish recommender.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
